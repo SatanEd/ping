@@ -1,6 +1,6 @@
 {
   "name": "hostnameToIp",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "gets an ip address from domain name",
   "main": "index.js",
   "scripts": {
