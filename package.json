@@ -1,10 +1,20 @@
 {
+  "_args": [
+    [
+      "hostnametoip",
+      ""
+    ]
+  ],
+  "_location": "/hostnametoip",
   "name": "hostnametoip",
   "version": "0.1.0",
   "description": "gets an ip address from domain name",
-  "main": "index.js",
+  "main": "./lib/hostnametoip.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "svgo": "./bin/hostnametoip"
   },
   "repository": {
     "type": "git",
