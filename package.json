@@ -1,5 +1,5 @@
 {
-  "name": "hostnameToIp",
+  "name": "hostnametoip",
   "version": "0.1.0",
   "description": "gets an ip address from domain name",
   "main": "index.js",
